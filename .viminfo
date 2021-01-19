@@ -21,16 +21,19 @@
 # Registers:
 
 # File marks:
-'0  10  0  ~/tomcat.yml
+'0  2  12  ~/tomcat.yml
+'1  10  0  ~/tomcat.yml
 
 # Jumplist (newest first):
--'  10  0  ~/tomcat.yml
+-'  2  12  ~/tomcat.yml
 -'  1  0  ~/tomcat.yml
+-'  10  0  ~/tomcat.yml
 
 # History of marks within files (newest to oldest):
 
 > ~/tomcat.yml
-	"	10	0
-	^	10	0
-	.	10	0
+	"	2	12
+	^	2	13
+	.	2	12
 	+	10	0
+	+	2	12
