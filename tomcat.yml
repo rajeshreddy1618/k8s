@@ -1,0 +1,10 @@
+---
+ - hosts: ubuntu
+   become: true
+   tasks:
+    - name: installing tomcat
+      apt:
+           name: tomcat7
+           state: present
+
+
